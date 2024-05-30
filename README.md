@@ -16,7 +16,7 @@ This proposal outlines a plan to redesign the Zotero web pages at Temple Univers
 
 <p align="center">
 Link to Proposal: <br/>
-<a href="https://docs.google.com/document/d/1OyX-Tc7r4jVQgEfwkHhfosGek9bT3gs3fXKcDirUzG0/edit?usp=sharing"><img alt="Proposal to Change Zotero's webpages at Temple University"/></a>
+<a href="https://docs.google.com/document/d/1OyX-Tc7r4jVQgEfwkHhfosGek9bT3gs3fXKcDirUzG0/edit?usp=sharing"><img alt="Proposal to Change Zotero's Webpages at Temple University"/></a>
 <br />
 <br />
 
