@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-This proposal outlines a plan to redesign the Zotero web pages at Temple University to enhance student access to accurate and informative resources. The current pages lack clarity and comprehensive information, obstructing the utlization of Zotero. Redesigning the pages to provide clearer instructions, updated content, and more engaging visuals will improve student usage of Zotero. 
+This proposal outlines a plan to redesign the Zotero web pages at Temple University to enhance student access to accurate and informative resources. The current pages lack clarity and comprehensive information, obstructing the utilization of Zotero. Redesigning the pages to provide clearer instructions, updated content, and more engaging visuals will improve student usage of Zotero. 
 <br />
 
 
